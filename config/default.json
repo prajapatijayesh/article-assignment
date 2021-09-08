@@ -1,0 +1,6 @@
+{
+    "dbConfig": {
+        "host": "mongodb+srv://pjayesh:admin123@cluster0.kffho.mongodb.net/article?retryWrites=true&w=majority"
+    },
+    "secret": "postmyarticle"
+}
